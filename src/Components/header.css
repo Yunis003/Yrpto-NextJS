@@ -2,8 +2,9 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px 20px;
+    padding: 10px 0;
     color: black;
+    border-bottom: 1px solid #e0e0e0;
     >nav{
         display: flex;
         justify-content: space-between;

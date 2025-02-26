@@ -5,8 +5,7 @@ export default function Header() {
     <header>
       <h2>Yrpto</h2>
       <nav>
-        <h2>Welcome Back, Yunis!</h2>
-        <input type="text" placeholder='Search..' />
+        <h2>Welcome Back, M.!</h2>
       </nav>
     </header>
   )
